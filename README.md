@@ -75,4 +75,4 @@ cn("px-2 bg-slate-100 py-2 bg-slate-200")
 
 ## License
 
-Licensed under the [MIT license](https://github.com/shadcn/ui/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/Emperordmasac/pavilion-ui/blob/main/LICENSE.md).
